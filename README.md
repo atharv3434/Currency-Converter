@@ -1,1 +1,3 @@
 # Currency-Converter
+
+A Currency Converter web application designed using HTML, CSS, and JavaScript to provide a seamless and interactive user experience. The application enables users to effortlessly convert values between multiple currencies by fetching real-time exchange rates from a trusted API. It features an intuitive interface with dropdown menus to select currencies, an input field for entering amounts, and dynamic results that update instantly. The project emphasizes responsive design, ensuring accessibility across devices, and showcases the integration of API data with JavaScript for real-world application development.
